@@ -14,11 +14,6 @@ Hi I am Digaant a software engineering student at Sheridan college seeking a 4-m
   <img alt="github-snake" src="https://raw.githubusercontent.com/DigaantDogra/DigaantDogra/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DigaantDogra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DigaantDogra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaantDogra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
