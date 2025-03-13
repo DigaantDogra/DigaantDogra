@@ -14,7 +14,7 @@ Hi I am Digaant a software engineering student at Sheridan college seeking a 4-m
   <img alt="github-snake" src="https://raw.githubusercontent.com/DigaantDogra/DigaantDogra/output/github-snake.svg" />
 </picture>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
