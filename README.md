@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Digaant a software engineering student at Sheridan college seeking a 4-month internship to enhance software design, development, and testing skills. <br>Strong understanding of data structures, algorithms, and software development methodologies. <br>Collaborated in hackathons and group projects.
+Hi I am Digaant a software engineering student at Sheridan college seeking a 4-8 month internship to enhance software design, development, and testing skills. <br>Strong understanding of data structures, algorithms, and software development methodologies. <br>Collaborated in hackathons and group projects.
 
 
 ## 🌐 Socials:
